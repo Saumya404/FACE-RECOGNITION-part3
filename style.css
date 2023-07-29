@@ -1,0 +1,30 @@
+body{
+color: black;
+background-image: url(https://elements-video-cover-images-0.imgix.net/files/feb3c642-1ed1-43e7-a14d-4da4be93c913/inline_image_preview.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=3c890b5ed4433d58afbf2cf6844b5387
+);
+border: 10px;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+
+}
+
+#camera{
+    width:400px;
+    height: 300px;
+    border: 5px dashed rgb(255, 255, 255);
+}
+
+label{
+    color: rgb(255, 255, 255);
+}
+
+.Face{
+    color:white;
+}
+
+.snapchat{
+    color: white;
+}
